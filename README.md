@@ -14,7 +14,7 @@ Curso: 7º3
 8. ¿Por qué deberían los desarrolladores leer los casos de uso?: => Como base para casos de prueba
 9. ¿Cuál es el nombre correcto para el icono señalado en la imagen?: => Actor 
 10. ¿Qué se entiende por extender un caso de uso?: => Agregar excepciones y flujos alternativos a un caso de uso base existente
-11.	¿Qué se entiende por incluir un caso de uso?: => Creación de un nuevo caso de uso mediante la adición de nuevos pasos a un caso base existente <=
+11.	¿Qué se entiende por incluir un caso de uso?: => Creación de un nuevo caso de uso mediante la adición de nuevos pasos a un caso base existente
 12.	¿Cuál es el nombre correcto para el icono señalado en la imagen?:	=> Relación
 13.	¿Cuál es el nombre correcto para el icono señalado en la imagen?: => Límite del sistema
 14.	¿Cuál es el flujo primario de un caso de uso?: => Los escenarios que describen la forma en que el sistema debe funcionar se describe con la suposición de que todo va perfectamente
